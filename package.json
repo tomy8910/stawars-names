@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "tomys-starwars-pkg",
   "version": "1.0.0",
   "description": "Get random starwars names",
   "main": "src/index.js",
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/tomy8910/stawars-names.git"
   },
-  "keywords": [
-    "random",
-    "star",
-    "wars"
-  ],
+  "keywords": ["random", "star", "wars"],
   "author": "Tomas Alejandro V. Falgui III <tomyfalguiiii@yahoo.com> (http://tomyvf.design/)",
   "license": "MIT",
   "bugs": {
